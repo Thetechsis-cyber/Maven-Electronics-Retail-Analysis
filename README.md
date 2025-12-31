@@ -51,7 +51,8 @@ The dataset was cleaned and transformed for analysis by:
 
 The cleaned dataset is now ready for visualization and insights.
 
-view my dashboard here
+[view my dashboard here
+](https://app.powerbi.com/view?r=eyJrIjoiODk4YjU4N2ItYzhmMy00ZjYzLWE1OTUtMDNjMTQzN2Q2ZGUyIiwidCI6IjE5NDlmNzRjLTQzY2UtNDRhZi1iYTdhLWJhYjRhYjYyNzljNiJ9)
 
 ### Key Insights
 * Strong profitability – $55.8M revenue, $32.7M profit → ~59% margin. Business is financially healthy.
